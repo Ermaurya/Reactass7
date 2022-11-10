@@ -2,7 +2,7 @@
 import './App.css';
 // import Toggel from './component/Toggel';
 import Toggle from './component/Toggle';
-import Password from './component/Password';
+
 
 function App() {
   return (
